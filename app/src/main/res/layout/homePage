@@ -158,6 +158,7 @@
       "header": "Popular on Netflix",
       "view_type": "CONTENT",
       "see_all": false,
+      "url":"",
       "items": [
         {
           "title": "IND v AUS | English",
@@ -196,7 +197,8 @@
     {
       "header": "Popular in Animation",
       "view_type": "GENRE",
-      "see_all": false,
+      "see_all": true,
+      "url":"/genre/animation",
       "items": []
     }
   ]
