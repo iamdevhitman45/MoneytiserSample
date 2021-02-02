@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Scarlett Johansson",
+    "url":"/star/scarlett-johansson",
+    "image":"https://eskipaper.com/images/scarlett-johansson-20.jpg",
+    "bio":"Scarlett Ingrid Johansson is an American actress and singer. She was the world's highest-paid actress in 2018 and 2019, and has featured multiple times on the Forbes Celebrity 100 list."
+  },
+  {
+    "name":"Chris Evans",
+    "url":"/star/chris-evans",
+    "image":"https://s5.favim.com/orig/140603/avengers-captain-america-chris-evans-funny-faces-Favim.com-1813407.jpg",
+    "bio":"Christopher Robert Evans is an American actor, best known for his role as Captain America in the Marvel Cinematic Universe series of films. Evans began his career with roles in television series, such as in Opposite Sex in 2000."
+  },
+  {
+    "name":"Elizabeth Olsen",
+    "url":"/star/elizabeth-olsen",
+    "image":"https://www.pixel4k.com/wp-content/uploads/2018/12/elizabeth-olsen-5k-2019_1546276738.jpg",
+    "bio":"Elizabeth Chase Olsen is an American actress. Her breakthrough came in 2011 when she starred in the independent thriller drama Martha Marcy May Marlene, for which she was nominated for the Critics' Choice Movie Award for Best Actress and Independent Spirit Award for Best Female Lead, among other awards."
+  },
+  {
+    "name":"Chris Hemsworth",
+    "url":"/star/chris-hemsworth",
+    "image":"https://cdn.shopify.com/s/files/1/0747/3829/products/mR0135_1024x1024.jpeg",
+    "bio":"Christopher Hemsworth is an Australian actor. He first rose to prominence in Australia playing Kim Hyde in the Australian television series Home and Away before beginning a film career in Hollywood."
+  },
+  {
+    "name":"Gal Gadot",
+    "url":"/star/gal-gadot",
+    "image":"https://cdn.shopify.com/s/files/1/1878/3879/products/N0649_600x.jpg",
+    "bio":"Gal Gadot Varsano is an Israeli actress, producer, and model. At age 18, she was crowned Miss Israel 2004. She then served two years in the Israel Defense Forces as a soldier, after which she began studying at the IDC Herzliya college, while building her modelling and acting careers."
+  }
+]
