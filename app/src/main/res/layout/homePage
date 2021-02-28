@@ -1,5 +1,15 @@
 {
   "main_contets": [
+  {
+      "page":"/watch/1962-the-war-in-the-hills",
+      "title": "1962: the War in the Hills",
+      "image": "https://images.firstpost.com/wp-content/uploads/large_file_plugin/2021/02/1613456062_WARINTHEHILLS640.jpg",
+      "type": "series",
+      "imdb": "5.7",
+      "year": "2021",
+      "duration": "36m",
+      "description": "In the Sino-Indian War, 126 Indians defended a strategic pass against 3,000 enemy soldiers. This was a battle of dauntless courage, fought to the last bullet."
+    },
     {
       "page":"/watch/wandavision",
       "title": "WandaVision",
