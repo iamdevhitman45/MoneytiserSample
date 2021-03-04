@@ -1,5 +1,21 @@
 {
   "main_contets": [
+{ "page":"/watch/superman-lois",
+ "title": "Superman and Lois", 
+"image":"https://cdn.flickeringmyth.com/wp-content/uploads/2020/05/superman-and-lois.jpg",
+ "type": "series",
+ "imdb": "8.2", 
+"year": "2021",
+ "duration": "42m", 
+"description": "Follow the world's most famous super hero and comic books' most famous journalist as they deal with all the stress, pressures, and complexities that come with being working parents in today's society." },
+{ "page":"/watch/the-flash",
+ "title": "The Flash", 
+"image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/640be875-9dc1-442f-967d-cb62b913dc71/de3j4vn-fa829e73-7ace-498f-873f-ee3d18c677d8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjQwYmU4NzUtOWRjMS00NDJmLTk2N2QtY2I2MmI5MTNkYzcxXC9kZTNqNHZuLWZhODI5ZTczLTdhY2UtNDk4Zi04NzNmLWVlM2QxOGM2NzdkOC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.0ra4hMGeO86UnCNHPS_PsMg4hjyGvSRWd25uGtecnpo",
+ "type": "series",
+ "imdb": "7.7", 
+"year": "2014",
+ "duration": "43m", 
+"description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the next Flash, fighting crime in Central City." },
 { "page":"/watch/tom-jerry", "title": "Tom and Jerry", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ib7Wx5oY2uNptNUROsEcaPsBCTyLxxpZXg&usqp=CAU", "type": "movie", "imdb": "5.3", "year": "2021", "duration": "101m", "description": "Adaptation of the classic Hanna-Barbera property, which reveals how Tom and Jerry first meet and form their rivalry." },
   {
       "page":"/watch/1962-the-war-in-the-hills",
