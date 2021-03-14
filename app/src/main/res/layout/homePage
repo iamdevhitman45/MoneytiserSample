@@ -6,7 +6,7 @@
  "type": "live",
  "imdb": "8.2", 
 "year": "2021",
- "duration": "http://hitectv.live/hls/stream15.m3u8", 
+ "duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/jPQqWmhn-rIkEmqEgluoVysTCz44iXLANhmsProPBIOIDt2Zto_PgdhNwvhCJECg_RQDeXZiVv0CkY0ahzouNQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live", 
 "description": "India Vs England 2nd T20 English coverage live from Narendra Modi Stadium" },
 { "page":"",
  "title": "Ind Vs Eng | 2nd T20 | Hindi", 
