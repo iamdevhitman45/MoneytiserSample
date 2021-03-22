@@ -14,7 +14,7 @@
  "type": "live",
  "imdb": "8.2", 
 "year": "2021",
- "duration": "http://hitectv.live/hls/stream15.m3u8", 
+ "duration": "http://103.102.136.106:8080/cmcltv/livesports.m3u8", 
 "description": "Live stream of star sports 1 HD. India Vs England series will be telecasted here." },
 { "page":"",
  "title": "Star Sports 2 HD", 
