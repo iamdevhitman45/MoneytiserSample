@@ -6,7 +6,7 @@
  "type": "live",
  "imdb": "8.2", 
 "year": "2021",
- "duration": "https://prod-fastly-eu-central-1.video.periscope.tv/Transcoding/v1/hls/kLW2JhfbJDwqdIrobq0x4Qw6bi_nVPbvjlRvhySMhzheBCcPN83rwD4IzWKDIJ9thhWa4x_VX4FHs6uY8ah7ZA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live", 
+ "duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/x6ugmLH7dkXp9dIplS-H0aAO-xs7somcZzNSQ8AEeWmak39Ap9SzCSMB6SpwykMWXhnDH11nNDzHBD7Ac2hiRg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live", 
 "description": "India Vs England 1st ODI coverage live." },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
