@@ -2,11 +2,11 @@
   "main_contets": [
 { "page":"",
  "title": "Ind Vs Eng | 2nd ODI", 
-"image":"https://prod-fastly-ap-northeast-1.video.periscope.tv/Transcoding/v1/hls/jdulSg1YIKTGOkSMIMhU94wniNAVFBj539CQN03nwe4h9kv1DCm1pEGJ_DmC2MKxyorxwuID4VJDW1ecXxzVcg/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8",
+"image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a78b5f27464719.563658bc4756d.jpg",
  "type": "live",
  "imdb": "8.2", 
 "year": "2021",
- "duration": "https://hls.rtasports.live/hls/stream.m3u8", 
+ "duration": "https://prod-fastly-ap-northeast-1.video.periscope.tv/Transcoding/v1/hls/jdulSg1YIKTGOkSMIMhU94wniNAVFBj539CQN03nwe4h9kv1DCm1pEGJ_DmC2MKxyorxwuID4VJDW1ecXxzVcg/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8", 
 "description": "India Vs England 2nd ODI coverage live from Pune" },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
