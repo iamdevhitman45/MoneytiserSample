@@ -1,13 +1,5 @@
 {
   "main_contets": [
-{
- "page":"", "title": "Star Sports 2 HD", "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/168587188_114333923986885_7110638642966333545_n.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "http://62.210.85.87:25461/live/alipajiuk/oRGQpcPAkZ/220.m3u8?token=TBQMVBZdF18QBlEHBlJWUQACCVVcBlBZBwcHVwQDAVUGVFUDXQEFUQZASBZEEBcBAFtmWFwVX1MHVBpDEBVSQmhfABdfFwRTEE5GQF4JAEZbBhUTSF4BQw9GBVBXUAMSGxQBTRFQRwtTDjtQUhIMBwQUA19NWwlNFwtYPgEDWlFZUkYPRwUXSRALF0QVXgsRDVoVE1peERNUEFNDX0QGBgYHRhlHVloQXBYWTRVeRy0vFBUTXU8RBFsXXw4LRA0SWgURDUcZFwxBPRZRRBAXAQBbXEMaDUdQF0gUDAQeaFNYWApQBkFcClwRRg4VVVVUQxobXFdZDBVaFmkRDAIVChUHUQBXF0g=", 
-"description": "Stream live action of IPL 2021 here, it's the live telecast of Star Sports 2 HD"
- },
 { "page":"",
  "title": "Star Sports 1 | Hindi", 
 "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/168587188_114333923986885_7110638642966333545_n.jpg",
@@ -16,14 +8,6 @@
 "year": "2021",
  "duration": "https://dt1q9ova10xfm.cloudfront.net/SSPORTS1H.m3u8?token=RED_ZDU52vDk96UD32Jv2WHSvg==,1617690793.2635379685", 
 "description": "Stream live action of IPL 2021 here, it's the live telecast of Star Sports 1 Hindi" },
-{
- "page":"", "title": "Star Sports Select 2 HD", "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/168587188_114333923986885_7110638642966333545_n.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "http://209.126.120.153/hls/chss2.m3u8", 
-"description": "Stream live action of IPL 2021 here, it's the live telecast of Star Sports Select 2 HD"
- },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
 "image":"https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
