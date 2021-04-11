@@ -1,6 +1,7 @@
 {
   "main_contets": [
-{ "page":"", "title": "IPL Hindi | SRH vs KKR", "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/IPL%20on%20Instagram%20STAGE%20SET%20%EF%B8%8F%20%23VIVOIPL%20%40vivo_india%20%23CSKvDC.jpg", "type": "live", "imdb": "8.2", "year": "2021", "duration": "https://www101.sbvideocdn.com/hlsx/db6ump1j72_hi/index.m3u8", "description": "Live telecast of IPL 2021, Stream SRH vs KKR live action in Hindi." }
+{ "page":"", "title": "IPL Hindi HD | SRH vs KKR", "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/IPL%20on%20Instagram%20STAGE%20SET%20%EF%B8%8F%20%23VIVOIPL%20%40vivo_india%20%23CSKvDC.jpg", "type": "live", "imdb": "8.2", "year": "2021", "duration": "https://www101.sbvideocdn.com/hlsx/db6ump1j72_hi/index.m3u8", "description": "Live telecast of IPL 2021, Stream SRH vs KKR live action in Hindi." },
+{ "page":"", "title": "IPL Hindi LQ | SRH vs KKR", "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/IPL%20on%20Instagram%20STAGE%20SET%20%EF%B8%8F%20%23VIVOIPL%20%40vivo_india%20%23CSKvDC.jpg", "type": "live", "imdb": "8.2", "year": "2021", "duration": "https://www101.sbvideocdn.com/hlsx/db6ump1j72_low/index.m3u8", "description": "Live telecast of IPL 2021, Stream SRH vs KKR live action in Hindi and low quality to save data." },
 {
  "page":"", "title": "IPL | SRH vs KKR", "image":"https://raw.githubusercontent.com/iamdevhitman45/update/master/IPL%20on%20Instagram%20STAGE%20SET%20%EF%B8%8F%20%23VIVOIPL%20%40vivo_india%20%23CSKvDC.jpg", 
 "type": "live", 
