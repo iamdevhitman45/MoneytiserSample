@@ -1,13 +1,13 @@
 {
   "main_contets": [
-{ "page":"", "title": "IPL Hindi | MI vs KKR", "image":"https://wallpapercave.com/wp/wp8752887.jpg", "type": "live", "imdb": "8.2", "year": "2021", "duration": "https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_0/index2.m3u8", "description": "Live telecast of IPL 2021, Stream MI vs KKR live action." },
+{ "page":"", "title": "IPL Hindi | SRH vs RCB", "image":"https://wallpapercave.com/wp/wp8752887.jpg", "type": "live", "imdb": "8.2", "year": "2021", "duration": "https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_0/index2.m3u8", "description": "Live telecast of IPL 2021, Stream SRH vs RCB live action." },
 {
- "page":"", "title": "IPL English | MI vs KKR", "image":"https://wallpapercave.com/wp/wp8752887.jpg", 
+ "page":"", "title": "IPL English | SRH vs RCB", "image":"https://wallpapercave.com/wp/wp8752887.jpg", 
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
 "duration": "https://ipl-live.s3.ap-south-1.amazonaws.com/mixcasthd.com_2/index2.m3u8", 
-"description": "Live telecast of IPL 2021, Stream MI vs KKR live action."
+"description": "Live telecast of IPL 2021, Stream SRH vs RCB live action."
  },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
