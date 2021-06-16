@@ -8,6 +8,22 @@
 "duration": "https://sony247channels.akamaized.net/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1623883219~acl=/*~id=40240320447149874469426015163566~hmac=d83bca9b88f18fb057ea9600728dad8cda49976fd4c8a9986b10df4265d3edce", 
 "description": "Live telecast of Sony Six HD, here you'll get to see all the UEFA EURO 2020 games."
  },
+{
+ "page":"", "title": "UEFA EURO 2020 | Sony Ten 2 HD", "image":"https://wallpapercave.com/wp/wp6960790.jpg", 
+"type": "live", 
+"imdb": "8.2",
+ "year": "2021", 
+"duration": "https://sony247channels.akamaized.net/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1623886665~acl=/*~id=49079956866105686530312603297209~hmac=73c66fe22ccdaf15e9a746d7e6e2049bc4fbb8f1211c5c4b350a95e679c80108", 
+"description": "Live telecast of Sony Ten 2 HD, here you'll get to see all the UEFA EURO 2020 games."
+ },
+{
+ "page":"", "title": "UEFA EURO 2020 | Sony Ten 4 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
+"type": "live", 
+"imdb": "8.2",
+ "year": "2021", 
+"duration": "https://sony247channels.akamaized.net/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1623886810~acl=/*~id=99762445093222490480658215175998~hmac=237218a9e58d2346ccb7c49a35f9c2d7806a377fe87c2806ee6cd79e536a9d6e", 
+"description": "Live telecast of Sony Ten 4 HD, here you'll get to see all the UEFA EURO 2020 games."
+ },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
 "image":"https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
