@@ -9,6 +9,22 @@
 "description": "Live telecast of Star Sports 1 Hindi, here you'll get to see WTC Final between India & New Zealand.”
 },
 {
+ "page":"", "title": "UEFA EURO 2020 | Sony Six HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
+"type": "live", 
+"imdb": "8.2",
+ "year": "2021", 
+"duration": "http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8?token=", 
+"description": "Live telecast of Sony Six HD, here you'll get to see all the UEFA EURO 2020 games."
+ },
+{
+ "page":"", "title": "UEFA EURO 2020 | Sony Ten 2 HD", "image":"https://wallpapercave.com/wp/wp6960790.jpg", 
+"type": "live", 
+"imdb": "8.2",
+ "year": "2021", 
+"duration": "http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8?token=", 
+"description": "Live telecast of Sony Ten 2 HD, here you'll get to see all the UEFA EURO 2020 games."
+ },
+{
 "page":"", "title": “Euro/Copa America | Sony Ten 1 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg",
 "type": "live",
 "imdb": "8.2",
@@ -17,28 +33,12 @@
 "description": "Live telecast of Sony Six HD, here you'll get to see all the UEFA Euro & Copa America games."
 },
 {
- "page":"", "title": "UEFA EURO 2020 | Sony Six HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
+ "page":"", "title": "Sony Ten 3 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
-"duration": "https://sony247channels.akamaized.net/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1623942308~acl=/*~id=86629710582566969360909015531178~hmac=e78859e0cc0d5a7640358575b9f632111d4fd7987f2e4ec89786eb594c51491e", 
-"description": "Live telecast of Sony Six HD, here you'll get to see all the UEFA EURO 2020 games."
- },
-{
- "page":"", "title": "UEFA EURO 2020 | Sony Ten 2 HD", "image":"https://wallpapercave.com/wp/wp6960790.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "https://sony247channels.akamaized.net/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1623942235~acl=/*~id=73339950787028218314296046490374~hmac=2a5938c41ebfc104abe878b2cbd2995215674e237f0f56ffcde44ee7fe81feb4", 
-"description": "Live telecast of Sony Ten 2 HD, here you'll get to see all the UEFA EURO 2020 games."
- },
-{
- "page":"", "title": "UEFA EURO 2020 | Sony Ten 4 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "https://sony247channels.akamaized.net/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1623942284~acl=/*~id=77107660054244822205636355323411~hmac=e4a89386bc6b160284a129fed41b17c58ff41ac77c496cb55b24b702d0f0debd", 
-"description": "Live telecast of Sony Ten 4 HD, here you'll get to see all the UEFA EURO 2020 games."
+"duration": "http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/index.m3u8?token=", 
+"description": "Live telecast of Sony Ten 3 HD."
  },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
