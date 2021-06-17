@@ -25,15 +25,15 @@
 "description": "Live telecast of Sony Ten 2 HD, here you'll get to see all the UEFA EURO 2020 games."
  },
 {
- "page":"", "title": "Euro/Copa America | Sony Ten 1 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
+ "page":"", "title": "IndW vs EngW | Sony Ten 1 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
 "duration": "http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/index.m3u8?token=", 
-"description": "Live telecast of Sony Six HD, here you'll get to see all the UEFA Euro & Copa America games."
+"description": "Live telecast of Sony Ten 1 HD."
  },
 {
- "page":"", "title": "Sony Ten 3 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
+ "page":"", "title": "Euro/Copa America | Sony Ten 3 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
