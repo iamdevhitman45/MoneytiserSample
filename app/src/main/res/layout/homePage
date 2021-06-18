@@ -9,6 +9,14 @@
 "description": "Live telecast of Star Sports 1 Hindi, here you'll get to see WTC Final between India & New Zealand."
  },
 {
+ "page":"", "title": "WTC Final | Star Sports 1 | English", "image":"https://cdn.insidesport.co/wp-content/uploads/2021/05/10190126/2021-05-10.jpeg", 
+"type": "live", 
+"imdb": "8.2",
+ "year": "2021", 
+"duration": "http://212.224.98.204:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=RED_giSG9xYyEZhEKwwOKG1Bbg==,1621030973.5329571585", 
+"description": "Live telecast of Star Sports 1 English, here you'll get to see WTC Final between India & New Zealand."
+ },
+{
  "page":"", "title": "UEFA EURO 2020 | Sony Six HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
 "type": "live", 
 "imdb": "8.2",
