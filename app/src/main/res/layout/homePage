@@ -9,6 +9,14 @@
 "description": "Live telecast of WTC Final between India & New Zealand."
  },
 {
+ "page":"", "title": "WTC Final | Ind vs Nz | Hindi", "image":"https://cdn.insidesport.co/wp-content/uploads/2021/05/10190126/2021-05-10.jpeg", 
+"type": "live", 
+"imdb": "8.2",
+ "year": "2021", 
+"duration": "https://rootercwpoc.akamaized.net/hls/39650b038b131c41869dc57eaa760d36/high.m3u8", 
+"description": "Live telecast of WTC Final between India & New Zealand."
+ },
+{
  "page":"", "title": "UEFA EURO 2020 | Sony Six HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
 "type": "live", 
 "imdb": "8.2",
