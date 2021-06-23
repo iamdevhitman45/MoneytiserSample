@@ -5,15 +5,7 @@
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
-"duration": "https://rootercwpoc.akamaized.net/hls/d871e9c4bf81d0bf559a70706f10d739/high.m3u8", 
-"description": "Live telecast of WTC Final between India & New Zealand."
- },
-{
- "page":"", "title": "WTC Final | Ind vs Nz | Hindi", "image":"https://cdn.insidesport.co/wp-content/uploads/2021/05/10190126/2021-05-10.jpeg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "https://rootercwpoc.akamaized.net/hls/39650b038b131c41869dc57eaa760d36/high.m3u8", 
+"duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/7GpHozz0kX3O65V8drQZcRsQ7V9jTFjyS6tf89FOEHTV36M29_dC-889eUxq98VwQczgY7hh7NjFzoYCScxMRA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@live_cricketmatch_link", 
 "description": "Live telecast of WTC Final between India & New Zealand."
  },
 {
