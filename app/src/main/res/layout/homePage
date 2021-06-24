@@ -1,44 +1,20 @@
 {
   "main_contets": [
 {
- "page":"", "title": "WTC Final | Ind vs Nz", "image":"https://cdn.insidesport.co/wp-content/uploads/2021/05/10190126/2021-05-10.jpeg", 
+ "page":"", "title": "UEFA Euro 2020 | English", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
-"duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/7GpHozz0kX3O65V8drQZcRsQ7V9jTFjyS6tf89FOEHTV36M29_dC-889eUxq98VwQczgY7hh7NjFzoYCScxMRA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@live_cricketmatch_link", 
-"description": "Live telecast of WTC Final between India & New Zealand."
+"duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/UUgS1tBdmEjUQ_xdgijvG1Jh_3rH5HSM3_toKgs5xFoeE3P9BnA325nMOW25UQk8auejUPKQS-0wu7-OGFIVZQ/non_transcode/ap-southeast-1/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live", 
+"description": "Live telecast of UEFA Euro 2020 games in English."
  },
 {
- "page":"", "title": "UEFA EURO 2020 | Sony Six HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
+ "page":"", "title": "UEFA Euro 2020 | Hindi", "image":"https://wallpapercave.com/wp/wp6960790.jpg", 
 "type": "live", 
 "imdb": "8.2",
  "year": "2021", 
-"duration": "http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8?token=", 
-"description": "Live telecast of Sony Six HD, here you'll get to see all the UEFA EURO 2020 games."
- },
-{
- "page":"", "title": "UEFA EURO 2020 | Sony Ten 2 HD", "image":"https://wallpapercave.com/wp/wp6960790.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8?token=", 
-"description": "Live telecast of Sony Ten 2 HD, here you'll get to see all the UEFA EURO 2020 games."
- },
-{
- "page":"", "title": "IndW vs EngW | Sony Ten 1 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/index.m3u8?token=", 
-"description": "Live telecast of Sony Ten 1 HD."
- },
-{
- "page":"", "title": "Euro/Copa America | Sony Ten 3 HD", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/index.m3u8?token=", 
-"description": "Live telecast of Sony Ten 3 HD."
+"duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/O9UwW_yyA3WXolW5HpGQRHBya7ODrHKvGbEQG58ZKhVjh_T-XnATLQ7bEwqYRFlbgF4zydARtq28YKBKcP4mzw/non_transcode/ap-southeast-1/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live", 
+"description": "Live telecast of UEFA Euro 2020 games in Hindi."
  },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
