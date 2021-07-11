@@ -1,21 +1,13 @@
 {
   "main_contets": [
-{
- "page":"", "title": "UEFA Euro 2020 | English", "image":"https://wallpapercave.com/wp/wp6960630.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/UUgS1tBdmEjUQ_xdgijvG1Jh_3rH5HSM3_toKgs5xFoeE3P9BnA325nMOW25UQk8auejUPKQS-0wu7-OGFIVZQ/non_transcode/ap-southeast-1/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live", 
-"description": "Live telecast of UEFA Euro 2020 games in English."
- },
-{
- "page":"", "title": "UEFA Euro 2020 | Hindi", "image":"https://wallpapercave.com/wp/wp6960790.jpg", 
-"type": "live", 
-"imdb": "8.2",
- "year": "2021", 
-"duration": "https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/O9UwW_yyA3WXolW5HpGQRHBya7ODrHKvGbEQG58ZKhVjh_T-XnATLQ7bEwqYRFlbgF4zydARtq28YKBKcP4mzw/non_transcode/ap-southeast-1/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live", 
-"description": "Live telecast of UEFA Euro 2020 games in Hindi."
- },
+{ "page":"/watch/black-widow",
+ "title": "Black Widow", 
+"image":"https://www.mordeo.org/files/uploads/2020/05/Black-Widow-2020-Poster-4K-Ultra-HD-Mobile-Wallpaper.jpg",
+ "type": "movie",
+ "imdb": "7.1", 
+"year": "2021",
+ "duration": "133m", 
+"description": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War." },
 { "page":"/watch/zack-snyders-justice-league",
  "title": "Zack Snyder's Justice League", 
 "image":"https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
