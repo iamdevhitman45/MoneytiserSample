@@ -1,97 +1,64 @@
 {
   "main_contets": [
-{ "page":"/watch/black-widow",
- "title": "Black Widow", 
-"image":"https://www.mordeo.org/files/uploads/2020/05/Black-Widow-2020-Poster-4K-Ultra-HD-Mobile-Wallpaper.jpg",
- "type": "movie",
- "imdb": "7.1", 
-"year": "2021",
- "duration": "133m", 
-"description": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War." },
-{ "page":"/watch/zack-snyders-justice-league",
- "title": "Zack Snyder's Justice League", 
-"image":"https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
- "type": "movie",
- "imdb": "8.9", 
-"year": "2021",
- "duration": "242m", 
-"description": "Zack Snyder's definitive director's cut of Justice League. Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions." },
-{ "page":"/watch/superman-lois",
- "title": "Superman and Lois", 
-"image":"https://cdn.flickeringmyth.com/wp-content/uploads/2020/05/superman-and-lois.jpg",
- "type": "series",
- "imdb": "8.2", 
-"year": "2021",
- "duration": "42m", 
-"description": "Follow the world's most famous super hero and comic books' most famous journalist as they deal with all the stress, pressures, and complexities that come with being working parents in today's society." },
-{ "page":"/watch/the-flash",
- "title": "The Flash", 
-"image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/640be875-9dc1-442f-967d-cb62b913dc71/de3j4vn-fa829e73-7ace-498f-873f-ee3d18c677d8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjQwYmU4NzUtOWRjMS00NDJmLTk2N2QtY2I2MmI5MTNkYzcxXC9kZTNqNHZuLWZhODI5ZTczLTdhY2UtNDk4Zi04NzNmLWVlM2QxOGM2NzdkOC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.0ra4hMGeO86UnCNHPS_PsMg4hjyGvSRWd25uGtecnpo",
- "type": "series",
- "imdb": "7.7", 
-"year": "2014",
- "duration": "43m", 
-"description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the next Flash, fighting crime in Central City." },
-{ "page":"/watch/tom-jerry", "title": "Tom and Jerry", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Ib7Wx5oY2uNptNUROsEcaPsBCTyLxxpZXg&usqp=CAU", "type": "movie", "imdb": "5.3", "year": "2021", "duration": "101m", "description": "Adaptation of the classic Hanna-Barbera property, which reveals how Tom and Jerry first meet and form their rivalry." },
-  {
-      "page":"/watch/1962-the-war-in-the-hills",
-      "title": "1962: The War in the Hills",
-      "image": "https://images.freekaamaal.com/post_images/1612250816.jpg",
-      "type": "series",
-      "imdb": "5.7",
-      "year": "2021",
-      "duration": "36m",
-      "description": "In the Sino-Indian War, 126 Indians defended a strategic pass against 3,000 enemy soldiers. This was a battle of dauntless courage, fought to the last bullet."
+    {
+      "page": "/watch/the-kashmir-files",
+      "title": "The Kashmir Files",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI0YmMzNDctZGFkZi00NmIyLTk5NWEtMTU1MGRmMDQwNWU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "type": "movie",
+      "imdb": "8.3",
+      "year": "2022",
+      "duration": "170m",
+      "description": "The Kashmir Files' is a story, based on video interviews of the first generation victims of the Genocide of Kashmiri Pandit Community In 1990."
     },
     {
-      "page":"/watch/wandavision",
-      "title": "WandaVision",
-      "image": "https://wallpapercave.com/wp/wp4602356.jpg",
+      "page": "/watch/spiderman-no-way-home",
+      "title": "Spider-Man: No Way Home",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a7382a8-7e17-48bb-9295-77dc9a4f446f/deulcki-8ebf0c6a-7621-4078-aef2-5530bbf04de4.jpg/v1/fill/w_1280,h_1974,q_75,strp/spider_man___no_way_home___poster_3_by_rosereystock_deulcki-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTk3NCIsInBhdGgiOiJcL2ZcLzVhNzM4MmE4LTdlMTctNDhiYi05Mjk1LTc3ZGM5YTRmNDQ2ZlwvZGV1bGNraS04ZWJmMGM2YS03NjIxLTQwNzgtYWVmMi01NTMwYmJmMDRkZTQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fkGJfrAPitYTvUUlGnMue_aRu7Znswx-JJSiS4UvLxg",
+      "type": "movie",
+      "imdb": "8.5",
+      "year": "2022",
+      "duration": "148m",
+      "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man."
+    },
+    {
+      "page": "/watch/the-batman",
+      "title": "The Batman",
+      "image": "https://www.thewrap.com/wp-content/uploads/2022/01/The-Batman-Poster-Bat-and-Cat-1024x1024.jpg",
+      "type": "movie",
+      "imdb": "8.4",
+      "year": "2022",
+      "duration": "176m",
+      "description": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+    },
+    {
+      "page": "/watch/superman-lois",
+      "title": "Superman and Lois",
+      "image": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/05/superman-and-lois.jpg",
+      "type": "series",
+      "imdb": "8.2",
+      "year": "2021",
+      "duration": "42m",
+      "description": "Follow the world's most famous super hero and comic books' most famous journalist as they deal with all the stress, pressures, and complexities that come with being working parents in today's society."
+    },
+    {
+      "page": "/watch/the-flash",
+      "title": "The Flash",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/640be875-9dc1-442f-967d-cb62b913dc71/de3j4vn-fa829e73-7ace-498f-873f-ee3d18c677d8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjQwYmU4NzUtOWRjMS00NDJmLTk2N2QtY2I2MmI5MTNkYzcxXC9kZTNqNHZuLWZhODI5ZTczLTdhY2UtNDk4Zi04NzNmLWVlM2QxOGM2NzdkOC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.0ra4hMGeO86UnCNHPS_PsMg4hjyGvSRWd25uGtecnpo",
       "type": "series",
       "imdb": "7.7",
-      "year": "2021",
-      "duration": "27m",
-      "description": "Blends the style of classic sitcoms with the MCU in which Wanda Maximoff and Vision -two super-powered beings living their ideal suburban lives-begin to suspect that everything is not as it seems."
+      "year": "2014",
+      "duration": "43m",
+      "description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the next Flash, fighting crime in Central City."
     },
     {
-      "page":"/watch/lupin",
-      "title": "Lupin",
-      "image": "https://dsoundtrack.com/wp-content/uploads/2021/01/1546114752.jpeg",
+      "page": "/watch/rudra-the-edge-of-darkness",
+      "title": "Rudra: The Edge of Darkness",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQxM2JmNWEtNzliMy00NjVkLTkwNzctNWM1NzRkY2Y4M2M3XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UX1000_.jpg",
       "type": "series",
-      "imdb": "7.7",
-      "year": "2021",
-      "duration": "47m",
-      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family."
-    },
-    {
-      "page":"/watch/outside-the-wire-hindi-3414",
-      "title": "Outside the Wire",
-      "image": "https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
-      "type": "movie",
-      "imdb": "5.4",
-      "year": "2021",
-      "duration": "114m",
-      "description": "In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack."
-    },
-    {
-      "page":"/watch/wonder-woman-1984-enghindi",
-      "title": "Wonder Woman 1984",
-      "image": "http://www.screenscoop.com/wp-content/uploads/2020/12/wonder-woman-1984-character-poster-december-gal-gadot-e1607471253907.jpeg",
-      "type": "movie",
-      "imdb": "5.4",
-      "year": "2020",
-      "duration": "151m",
-      "description": "Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing."
-    },
-    {
-      "page":"/watch/pieces-of-a-woman",
-      "title": "Pieces of a Woman",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGE3MzMzOTAtOTExMy00MzFiLWFjNDItN2ZiZmYyYjY2MWUwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
-      "type": "movie",
       "imdb": "7.1",
-      "year": "2020",
-      "duration": "126m",
-      "description": "When a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss."
+      "year": "2022",
+      "duration": "53m",
+      "description": "In the crime-ridden streets of Mumbai, journeying through the maze of psychopathic minds is brilliant super-cop Rudra Veer Singh."
     }
   ],
   "lists": [
@@ -99,28 +66,28 @@
       "header": "Popular in Animation",
       "view_type": "GENRE",
       "see_all": true,
-      "url":"/genre/animation",
+      "url": "/genre/animation",
       "items": []
     },
     {
       "header": "Science Fiction",
       "view_type": "GENRE",
       "see_all": true,
-      "url":"/genre/science-fiction",
+      "url": "/genre/science-fiction",
       "items": []
     },
     {
       "header": "Drama",
       "view_type": "GENRE",
       "see_all": true,
-      "url":"/genre/drama",
+      "url": "/genre/drama",
       "items": []
     },
     {
       "header": "Adventure",
       "view_type": "GENRE",
       "see_all": true,
-      "url":"/genre/adventure",
+      "url": "/genre/adventure",
       "items": []
     }
   ]
